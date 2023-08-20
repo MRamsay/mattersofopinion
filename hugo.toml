@@ -1,0 +1,4 @@
+baseURL = 'https://mattersofopinion.ca/'
+languageCode = 'en-us'
+title = 'Matters of Opinion'
+theme = 'lugo'
